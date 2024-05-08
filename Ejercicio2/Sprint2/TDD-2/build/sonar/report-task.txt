@@ -1,0 +1,6 @@
+projectKey=word
+serverUrl=http://localhost:9000
+serverVersion=9.9.5.90363
+dashboardUrl=http://localhost:9000/dashboard?id=word
+ceTaskId=AY9YiZiP_jYrTZKQ4dL3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY9YiZiP_jYrTZKQ4dL3
